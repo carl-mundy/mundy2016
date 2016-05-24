@@ -1,6 +1,6 @@
 {
   "name": "Mundy2016",
   "tagline": "Scripts and notebooks related to Mundy et al. (2016)",
-  "body": "### Mundy et al. (2016) supplementary information\r\nHere I have placed links to machine-readable data related to the work presented in Mundy et al. (2016), as well as links to iPython/Jupyter notebooks which were used in this work. These can be used to reproduce the values presented in the paper, follow the methodology used within the work, and perform calculations using your own parameter choices.\r\n\r\n#### iPython/Jupyter Notebooks\r\n* Calculate the stellar mass accreted through mergers\r\n* Calculate the number of merging events a primary sample undergoes",
+  "body": "### Mundy et al. (2016) supplementary information\r\nHere I have placed links to machine-readable data related to the work presented in Mundy et al. (2016), as well as links to iPython/Jupyter notebooks which were used in this work. These can be used to reproduce the values presented in the paper, follow the methodology used within the work, and perform calculations using your own parameter choices.\r\n\r\n#### iPython/Jupyter Notebooks\r\n* [Calculate the stellar mass accreted through mergers](https://github.com/ppxcjm/mundy2016/blob/gh-pages/notebooks/Mass%20brought%20in%20through%20mergers.ipynb)\r\n* [Calculate the number of merging events a primary sample undergoes](https://github.com/ppxcjm/mundy2016/blob/gh-pages/notebooks/Calculate%20N_merg%20between%20two%20redshifts.ipynb)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
